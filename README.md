@@ -6,3 +6,4 @@
 * [Longest Palindromic Substring](code/longest_palindromic_substring.go)
 * [ZigZag Conversion](code/zigzag_conversion.go)
 * [Reverse String](code/reverse_string.go)
+* [Maximum Depth of Binary Tree](code/maximum_depth_of_binary_tree.go) O
