@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
-import "strconv"
+import (
+	"strconv"
+)
 
 func fizzBuzz(n int) []string {
 	var nums []string
@@ -17,11 +18,5 @@ func fizzBuzz(n int) []string {
 		}
 	}
 	return nums
-
-}
-
-func main() {
-	n := 16
-	fmt.Println(fizzBuzz(n))
 
 }
