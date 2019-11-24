@@ -9,3 +9,4 @@
 * [Maximum Depth of Binary Tree](code/maximum_depth_of_binary_tree.go) O
 * [Single Number](code/single_number.go)
 * [Fizz Buzz](code/fizz_buzz.go)
+* [Reverse Linked List](code/reverse_linked_list.go)
