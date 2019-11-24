@@ -10,3 +10,4 @@
 * [Single Number](code/single_number.go)
 * [Fizz Buzz](code/fizz_buzz.go)
 * [Reverse Linked List](code/reverse_linked_list.go)
+* [Move Zeroes](code/move_zeroes.go)
