@@ -11,3 +11,4 @@
 * [Fizz Buzz](code/fizz_buzz.go)
 * [Reverse Linked List](code/reverse_linked_list.go)
 * [Move Zeroes](code/move_zeroes.go)
+* [Majority Element](code/majority_element.go)
