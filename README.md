@@ -13,3 +13,4 @@
 * [Move Zeroes](code/move_zeroes.go)
 * [Majority Element](code/majority_element.go)
 * [Valid Anagram](code/valid_anagram.go)
+* [Contains Duplicate](code/contains_duplicate.go)
