@@ -20,3 +20,4 @@
 * [Best Time to Buy and Sell Stock III](code/best_time_to_buy_and_sell_stock_iii.go)
 * [Excel Sheet Column Number](code/excel_sheet_column_number.go)
 * [First Unique Character in a String](code/first_unique_character_in_a_string.go)
+* [Merge Two Sorted Lists](code/merge_two_sorted_lists.go)
