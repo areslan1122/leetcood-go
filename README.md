@@ -23,3 +23,4 @@
 * [Merge Two Sorted Lists](code/merge_two_sorted_lists.go)
 * [Intersection of Two Arrays II](code/intersection_of_two_arrays_ii.go)
 * [Intersection of Two Arrays](code/intersection_of_two_arrays.go)
+* [Missing Number](code/missing_number.go)  time: faster than 91%, memory: less than 100%
