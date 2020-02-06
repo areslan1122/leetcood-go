@@ -25,3 +25,4 @@
 * [Intersection of Two Arrays](code/intersection_of_two_arrays.go)
 * [Missing Number](code/missing_number.go)   91/100
 * [Pascal's Triangle](code/pascals_triangle.go)  100/100
+* [Happy Number](code/happy_number.go) 100/100
