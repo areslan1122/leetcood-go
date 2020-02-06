@@ -27,3 +27,4 @@
 * [Pascal's Triangle](code/pascals_triangle.go) 100/100
 * [Happy Number](code/happy_number.go) 100/100
 * [Number of 1 Bits](code/number_of_1_bits.go) 100/100
+* [Climbing Stairs](code/climbing_stairs.go) 100/89
