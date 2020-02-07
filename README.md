@@ -29,3 +29,4 @@
 * [Number of 1 Bits](code/number_of_1_bits.go) 100/100
 * [Climbing Stairs](code/climbing_stairs.go) 100/89
 * [Min Cost Climbing Stairs](code/min_cost_climbing_stairs.go) 92/100
+* [Maximum Subarray](code/maximum_subarray.go) 96/57
