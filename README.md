@@ -36,3 +36,4 @@
 * [Plus One](code/plus_one.go) 100/100
 * [House Robber](code/house_robber.go) 100/100
 * [Min Stack](code/min_stack.go) 17/100
+* [Linked List Cycle](code/linked_list_cycle.go) 42/28
