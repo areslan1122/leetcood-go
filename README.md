@@ -34,3 +34,4 @@
 * [Remove Duplicates from Sorted Array](code/remove_duplicates_from_sorted_array.go) 100/100
 * [Power of Three](code/power_of_three.go) 
 * [Plus One](code/plus_one.go) 100/100
+* [House Robber](code/house_robber.go) 100/100
