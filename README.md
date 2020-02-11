@@ -39,3 +39,4 @@
 * [Linked List Cycle](code/linked_list_cycle.go) 42/28
 * [Valid Parentheses](code/valid_parentheses.go) 8/30
 * [Merge Sorted Array](code/merge_sorted_array.go) 100/100
+* [Palindrome Linked List](code/palindrome_linked_list.go) 95/25
