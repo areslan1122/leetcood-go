@@ -15,7 +15,7 @@ func isPalindrome(head *ListNode) bool {
 		head = head.Next
 	}
 
-	for i := 0; i < len(tmp); i++ {
+	for i := 0; i < len(tmp)/2; i++ {
 		if tmp[i] != tmp[len(tmp)-1-i] {
 			return false
 		}
