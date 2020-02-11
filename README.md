@@ -38,3 +38,4 @@
 * [Min Stack](code/min_stack.go) 17/100
 * [Linked List Cycle](code/linked_list_cycle.go) 42/28
 * [Valid Parentheses](code/valid_parentheses.go) 8/30
+* [Merge Sorted Array](code/merge_sorted_array.go) 100/100
