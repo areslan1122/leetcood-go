@@ -40,3 +40,4 @@
 * [Valid Parentheses](code/valid_parentheses.go) 8/30
 * [Merge Sorted Array](code/merge_sorted_array.go) 100/100
 * [Palindrome Linked List](code/palindrome_linked_list.go) 95/25
+* [Factorial Trailing Zeroes](code/factorial_trailing_zeroes.go) 100/100
