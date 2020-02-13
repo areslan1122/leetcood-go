@@ -42,3 +42,4 @@
 * [Palindrome Linked List](code/palindrome_linked_list.go) 95/25
 * [Factorial Trailing Zeroes](code/factorial_trailing_zeroes.go) 100/100
 * [Intersection of Two Linked Lists](code/intersection_of_two_linked_lists.go) 93/20
+* [Reverse Bits](code/reverse_bits.go) 100/25
