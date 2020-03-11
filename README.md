@@ -46,3 +46,4 @@
 * [Longest Common Prefix](code/longest_common_prefix.go) 100/25
 * [Valid Palindrome](code/valid_palindrome.go) 100/100
 * [Implement strStr()](code/implement_str_str.go) 100/88
+* [Rotate Array](code/rotate_array.go) 6/100
