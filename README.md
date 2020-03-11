@@ -48,3 +48,4 @@
 * [Implement strStr()](code/implement_str_str.go) 100/88
 * [Rotate Array](code/rotate_array.go) 6/100
 * [Sqrt(x)](code/sqrt_x.go) 18/83
+* [Count Primes](code/count_primes.go) 86/100
