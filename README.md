@@ -52,3 +52,4 @@
 * [Reverse Integer](code/reverse_integer.go) 100/80
 * [Top K Frequent Elements](code/top_k_frequent_elements.go) 5/100
 * [Product of Array Except Self](code/product_of_array_except_self.go) 92/100
+* [Binary Tree Inorder Traversal](code/Binary_tree_inorder_traversal.go) 100/100
