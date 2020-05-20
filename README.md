@@ -56,3 +56,4 @@
 * [Permutations](code/permutations.go) 100/100
 * [Group Anagrams](code/group_anagrams.go) 33/100
 * [Find the Duplicate Number](find_the_duplicate_number.go) 7/100
+* [Binary Tree Level Order Traversal](binary_tree_level_order_traversal.go) 100/100
