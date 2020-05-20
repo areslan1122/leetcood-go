@@ -61,3 +61,4 @@
 * [4Sum II](4sum_ll.go) 32/100
 * [Game of Life](game_of_life.go) 100/100
 * [Number of Islands](number_of_islands.go) 27/16
+* [Set Matrix Zeroes](set_matrix_zeroes.go) 95/100
