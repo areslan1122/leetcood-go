@@ -7,6 +7,7 @@
 * [Reverse String](code-cn/Reverse_String.go) 72/33
 * [Reverse Linked List](code-cn/Reverse_Linked_List.go) 100/100
 * [Single Number](code-cn/Single_Number.go) 78/33
+* [Merge Two Sorted Lists](code-cn/Merge_Two_Sorted_Lists.go) 100/73
 
 
 ## leetcood-go
