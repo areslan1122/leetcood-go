@@ -5,7 +5,7 @@
 * [Maximum Depth of Binary Tree](code-cn/Maximum Depth of Binary Tree) 93/50
 * [Convert Sorted Array to Binary Search Tree](code-cn/Convert_Sorted_Array_to_Binary_Search_Tree.go) 10/28
 * [Reverse String](code-cn/Reverse_String.go) 72/33
-
+* [Reverse Linked List](code-cn/Reverse Linked List) 100/100
 
 ## leetcood-go
 
