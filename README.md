@@ -1,6 +1,7 @@
 ## leetcood-cn-go
 
 * [House Robber](code-cn/House_Robber.go) 100/100
+* [Delete Node in a Linked List](code-cn/Delete_Node_in_a_Linked_List.go) 73/34
 
 
 
