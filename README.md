@@ -1,14 +1,3 @@
-## leetcood-cn-go
-
-* [House Robber](code-cn/House_Robber.go) 100/100
-* [Delete Node in a Linked List](code-cn/Delete_Node_in_a_Linked_List.go) 73/34
-* [Maximum Depth of Binary Tree](code-cn/Maximum_Depth_of_Binary_Tree.go) 93/50
-* [Convert Sorted Array to Binary Search Tree](code-cn/Convert_Sorted_Array_to_Binary_Search_Tree.go) 10/28
-* [Reverse String](code-cn/Reverse_String.go) 72/33
-* [Reverse Linked List](code-cn/Reverse_Linked_List.go) 100/100
-* [Single Number](code-cn/Single_Number.go) 78/33
-* [Merge Two Sorted Lists](code-cn/Merge_Two_Sorted_Lists.go) 100/73
-* [Largest Rectangle in Histogram](code-cn/Largest_Rectangle_in_Histogram.go) 21/100
 
 
 ## leetcood-go
@@ -68,10 +57,20 @@
 * [Binary Tree Inorder Traversal](code/Binary_tree_inorder_traversal.go) 100/100
 * [Permutations](code/permutations.go) 100/100
 * [Group Anagrams](code/group_anagrams.go) 33/100
-* [Find the Duplicate Number](find_the_duplicate_number.go) 7/100
-* [Binary Tree Level Order Traversal](binary_tree_level_order_traversal.go) 100/100
-* [Kth Smallest Element in a Sorted Matrix]( kth_smallest_element_in_a_sorted_matrix.go) 5/50
-* [4Sum II](4sum_ll.go) 32/100
-* [Game of Life](game_of_life.go) 100/100
-* [Number of Islands](number_of_islands.go) 27/16
-* [Set Matrix Zeroes](set_matrix_zeroes.go) 95/100
+* [Find the Duplicate Number](code/find_the_duplicate_number.go) 7/100
+* [Binary Tree Level Order Traversal](code/binary_tree_level_order_traversal.go) 100/100
+* [Kth Smallest Element in a Sorted Matrix](code/kth_smallest_element_in_a_sorted_matrix.go) 5/50
+* [4Sum II](code/4sum_ll.go) 32/100
+* [Game of Life](code/game_of_life.go) 100/100
+* [Number of Islands](code/number_of_islands.go) 27/16
+* [Set Matrix Zeroes](code/set_matrix_zeroes.go) 95/100
+* [House Robber](code-cn/House_Robber.go) 100/100
+* [Delete Node in a Linked List](code-cn/Delete_Node_in_a_Linked_List.go) 73/34
+* [Maximum Depth of Binary Tree](code-cn/Maximum_Depth_of_Binary_Tree.go) 93/50
+* [Convert Sorted Array to Binary Search Tree](code-cn/Convert_Sorted_Array_to_Binary_Search_Tree.go) 10/28
+* [Reverse String](code-cn/Reverse_String.go) 72/33
+* [Reverse Linked List](code-cn/Reverse_Linked_List.go) 100/100
+* [Single Number](code-cn/Single_Number.go) 78/33
+* [Merge Two Sorted Lists](code-cn/Merge_Two_Sorted_Lists.go) 100/73
+* [Largest Rectangle in Histogram](code-cn/Largest_Rectangle_in_Histogram.go) 21/100
+* [Coin Change](code-cn/Coin_Change.go) 52/100
