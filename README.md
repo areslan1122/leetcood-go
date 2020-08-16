@@ -78,3 +78,4 @@
 * [Number of Longest Increasing Subsequence](code-cn/Number_of_Longest_Increasing_Subsequence.go)
 * [Edit Distance](code-cn/Edit_Distance.go)
 * [Linked List in Binary Tree](Linked_List_in_Binary_Tree.go) 67/84
+* [Check Balance LCCI](Check_Balance_LCCI.go) 90/56
