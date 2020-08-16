@@ -74,3 +74,7 @@
 * [Merge Two Sorted Lists](code-cn/Merge_Two_Sorted_Lists.go) 100/73
 * [Largest Rectangle in Histogram](code-cn/Largest_Rectangle_in_Histogram.go) 21/100
 * [Coin Change](code-cn/Coin_Change.go) 52/100
+* [Longest Increasing Subsequence](code-cn/Longest_Increasing_Subsequence.go) 73/65
+* [Number of Longest Increasing Subsequence](code-cn/Number_of_Longest_Increasing_Subsequence.go)
+* [Edit Distance](code-cn/Edit_Distance.go)
+* [Linked List in Binary Tree](Linked_List_in_Binary_Tree.go) 67/84
