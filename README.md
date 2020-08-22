@@ -81,4 +81,5 @@
 * [Check Balance LCCI](Check_Balance_LCCI.go) 90/56
 * [Binary Tree Maximum Path Sum](Binary_Tree_Maximum_Path_Sum.go) 
 * [Merge Two Binary Trees](Merge_Two_Binary_Trees.go) 97/92
-* [ Invert Binary Tree](Invert_Binary_Tree.go) 100/24
+* [Invert Binary Tree](Invert_Binary_Tree.go) 100/24
+* [Convert BST to Greater Tree](Convert_BST_to_Greater_Tree.go) 27/66
