@@ -80,5 +80,5 @@
 * [Linked List in Binary Tree](Linked_List_in_Binary_Tree.go) 67/84
 * [Check Balance LCCI](Check_Balance_LCCI.go) 90/56
 * [Binary Tree Maximum Path Sum](Binary_Tree_Maximum_Path_Sum.go) 
-* [Merge Two Binary Trees](Merge_Two_Binary_Trees.go)
+* [Merge Two Binary Trees](Merge_Two_Binary_Trees.go) 97/92
 * [ Invert Binary Tree](Invert_Binary_Tree.go) 100/24
