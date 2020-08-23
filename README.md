@@ -89,3 +89,4 @@
 * [Subsets](Subsets.go) 100/6
 * [Flatten Binary Tree to Linked List](Flatten_Binary_Tree_to_Linked_List.go) 100/11
 * [Generate Parentheses](Generate_Parentheses.go) 100/84
+* [Counting Bits](Counting_Bits.go)
