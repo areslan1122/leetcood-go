@@ -10,19 +10,24 @@ package main
  */
 
 func flatten(root *TreeNode) {
-	list := preorderTraversal(root)
+
+	list := getAllNode(root)
 	for i := 1; i < len(list); i++ {
 		prev, curr := list[i-1], list[i]
 		prev.Left, prev.Right = nil, curr
 	}
+
 }
 
-func preorderTraversal(root *TreeNode) []*TreeNode {
+func getAllNode(root *TreeNode) []*TreeNode {
 	list := []*TreeNode{}
+
 	if root != nil {
+
 		list = append(list, root)
-		list = append(list, preorderTraversal(root.Left)...)
-		list = append(list, preorderTraversal(root.Right)...)
+		list = append(list, getAllNode(root.Left)...)
+		list = append(list, getAllNode(root.Right)...)
 	}
+
 	return list
 }
