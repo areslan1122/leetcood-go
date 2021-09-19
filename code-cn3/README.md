@@ -6,3 +6,4 @@
 * [Binary Tree Postorder Traversal](Binary_Tree_Postorder_Traversal.go) 100/9
 * [Count Complete Tree Nodes](Count_Complete_Tree_Nodes.go) 83/87
 * [Same Tree](Same_Tree.go) 100/89
+* [Symmetric Tree](Symmetric_Tree.go) 100/99
