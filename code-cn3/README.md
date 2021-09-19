@@ -7,3 +7,4 @@
 * [Count Complete Tree Nodes](Count_Complete_Tree_Nodes.go) 83/87
 * [Same Tree](Same_Tree.go) 100/89
 * [Symmetric Tree](Symmetric_Tree.go) 100/99
+* [Sum of Left Leaves](Sum_of_Left_Leaves.go) 100/17
