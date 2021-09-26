@@ -8,3 +8,8 @@
 * [Same Tree](Same_Tree.go) 100/89
 * [Symmetric Tree](Symmetric_Tree.go) 100/99
 * [Sum of Left Leaves](Sum_of_Left_Leaves.go) 100/17
+* [Minimum Depth of Binary Tree](Minimum_Depth_of_Binary_Tree.go) ?
+
+### leetcode 面试精选
+* [Two Sum](./Two_Sum.go) 6/76
+
