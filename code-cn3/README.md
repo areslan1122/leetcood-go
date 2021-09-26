@@ -14,3 +14,4 @@
 * [Two Sum](./Two_Sum.go) 6/76
 * [Add Two Numbers](./Add_Two_Numbers.go) 59/100
 * [Longest Substring Without Repeating Characters](Longest_Substring_Without_Repeating_Characters.go) 71/66
+* [Median of Two Sorted Arrays](Median_of_Two_Sorted_Arrays.go) 89/9
