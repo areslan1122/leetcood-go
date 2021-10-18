@@ -10,8 +10,13 @@
 * [Sum of Left Leaves](Sum_of_Left_Leaves.go) 100/17
 * [Minimum Depth of Binary Tree](Minimum_Depth_of_Binary_Tree.go) ?
 
+### 动态规划
+* [Climbing Stairs](./Climbing_Stairs.go) 100/100
+* [Longest_Palindromic_Substring](./Longest_Palindromic_Substring.go) 67/84 
+
 ### leetcode 面试精选
 * [Two Sum](./Two_Sum.go) 6/76
 * [Add Two Numbers](./Add_Two_Numbers.go) 59/100
 * [Longest Substring Without Repeating Characters](Longest_Substring_Without_Repeating_Characters.go) 71/66
 * [Median of Two Sorted Arrays](Median_of_Two_Sorted_Arrays.go) 89/9
+
