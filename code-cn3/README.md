@@ -16,6 +16,7 @@
 * [Maximum Subarray](./Maximum_Subarray.go) 8/10
 * [Unique Paths](./Unique_Paths.go) 100/47
 * [Unique Paths II](./Unique_Paths_II.go) 100/93
+* [Jump Game](./Jump_Game.go) 81/87
 
 ### leetcode 面试精选
 * [Two Sum](./Two_Sum.go) 6/76
